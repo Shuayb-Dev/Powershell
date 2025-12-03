@@ -1,1 +1,2 @@
-Write-Output "Hello World"
+#This command gets the powershell version
+$psversiontable
